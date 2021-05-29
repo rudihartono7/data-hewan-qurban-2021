@@ -1,8 +1,9 @@
 {
     "domba":[
         {
-            "imageUrl": "https://github.com/rudihartono7/hewanqurban/blob/main/assets/images/product/p-1.jpg?raw=true",
+            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/domba-1.jpg?raw=true",
             "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
             "price": "4,2jt",
             "finalPrice":"4,1jt",
             "grade": "KELAS DOMBA D",
@@ -11,11 +12,21 @@
     ],
     "sapi":[
         {
-            "imageUrl": "https://github.com/rudihartono7/hewanqurban/blob/main/assets/images/product/p-1.jpg?raw=true",
+            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/sp-1.jpg?raw=true",
             "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
             "price": "26,5jt",
             "finalPrice":"26jt",
             "grade": "SAPI BETINA",
+            "weight": "Kisaran berat 300kg"
+        },
+        {   
+            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/sp-2.jpg?raw=true",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=dBESRCjmhLs",
+            "price": "27,5jt",
+            "finalPrice":"27jt",
+            "grade": "SAPI JANTAN",
             "weight": "Kisaran berat 300kg"
         }
     ]

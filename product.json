@@ -1,7 +1,7 @@
 {
     "domba":[
         {
-            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/domba-1.jpg?raw=true",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
             "price": "4,2jt",
@@ -12,7 +12,7 @@
     ],
     "sapi":[
         {
-            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/sp-1.jpg?raw=true",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
             "price": "26,5jt",
@@ -21,7 +21,7 @@
             "weight": "Kisaran berat 300kg"
         },
         {   
-            "imageUrl": "https://github.com/rudihartono7/data-hewan-qurban-2021/blob/main/assets/product/sp-2.jpg?raw=true",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-2.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=dBESRCjmhLs",
             "price": "27,5jt",

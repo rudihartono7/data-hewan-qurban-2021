@@ -1,6 +1,7 @@
 {
     "domba":[
         {
+            "name": "DQ01",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
@@ -10,6 +11,7 @@
             "weight": "Kirasan harga > 40kg"
         },
         {
+            "name": "DQ02",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-2.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=zd61fjNCzBs",
@@ -19,6 +21,7 @@
             "weight": "Kirasan berat > 30kg"
         },
         {
+            "name": "DQ03",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-3.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=eEDMkA4_wWE",
@@ -28,6 +31,7 @@
             "weight": "Kisaran berat 27-30kg"
         },
         {
+            "name": "DQ04",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-4.jpg",
             "status": 1,
             "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
@@ -35,6 +39,36 @@
             "finalPrice":"2,5jt",
             "grade": "KELAS DOMBA A",
             "weight": "Berat 25-26kg"
+        },
+        {
+            "name": "DQ05",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-5.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
+            "price": "3,5jt",
+            "finalPrice":"3,7jt",
+            "grade": "KELAS DOMBA C",
+            "weight": "Berat 35-39kg"
+        },
+        {
+            "name": "DQ06",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-6.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
+            "price": "4,3jt",
+            "finalPrice":"4,5jt",
+            "grade": "KELAS DOMBA D",
+            "weight": "Berat > 40kg"
+        },
+        {
+            "name": "DQ07",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-7.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
+            "price": "2,9jt",
+            "finalPrice":"2,9jt",
+            "grade": "KELAS DOMBA B",
+            "weight": "Berat 26-29kg"
         }
     ],
     "sapi":[

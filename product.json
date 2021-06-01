@@ -73,6 +73,7 @@
     ],
     "sapi":[
         {
+            "name": "SP01",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
@@ -82,6 +83,7 @@
             "weight": "Kisaran berat 250kg"
         },
         {   
+            "name": "SP02",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-2.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=dBESRCjmhLs",

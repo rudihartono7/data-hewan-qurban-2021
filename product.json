@@ -4,10 +4,37 @@
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
-            "price": "4,1jt",
+            "price": "4jt",
             "finalPrice":"4,2jt",
             "grade": "KELAS DOMBA D",
             "weight": "Kirasan harga > 40kg"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-2.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=zd61fjNCzBs",
+            "price": "3jt",
+            "finalPrice":"3,1jt",
+            "grade": "KELAS DOMBA B",
+            "weight": "Kirasan berat > 30kg"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-3.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=eEDMkA4_wWE",
+            "price": "2,8jt",
+            "finalPrice":"3jt",
+            "grade": "KELAS DOMBA B",
+            "weight": "Kisaran berat 27-30kg"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-4.jpg",
+            "status": 1,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
+            "price": "2,4jt",
+            "finalPrice":"2,5jt",
+            "grade": "KELAS DOMBA A",
+            "weight": "Berat 25-26kg"
         }
     ],
     "sapi":[
@@ -15,19 +42,19 @@
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-1.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=eNrcHbaFJTs",
-            "price": "26jt",
-            "finalPrice":"26,5jt",
+            "price": "24jt",
+            "finalPrice":"23jt",
             "grade": "SAPI BETINA",
-            "weight": "Kisaran berat 300kg"
+            "weight": "Kisaran berat 250kg"
         },
         {   
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/sp-2.jpg",
             "status": 0,
             "youtubeUrl": "https://www.youtube.com/watch?v=dBESRCjmhLs",
-            "price": "27jt",
-            "finalPrice":"27,5jt",
+            "price": "23jt",
+            "finalPrice":"24,5jt",
             "grade": "SAPI JANTAN",
-            "weight": "Kisaran berat 300kg"
+            "weight": "Kisaran berat > 250kg"
         }
     ]
 }

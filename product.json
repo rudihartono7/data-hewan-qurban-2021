@@ -41,6 +41,16 @@
             "weight": "Berat 25-26kg"
         },
         {
+            "name": "DQ08",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-8.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=XhNmR07vucI",
+            "price": "2,9jt",
+            "finalPrice":"3jt",
+            "grade": "KELAS DOMBA C",
+            "weight": "Berat 30-35kg"
+        },
+        {
             "name": "DQ05",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-5.jpg",
             "status": 0,

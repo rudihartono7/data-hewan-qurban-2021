@@ -13,7 +13,7 @@
         {
             "name": "DQ02",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-2.jpg",
-            "status": 0,
+            "status": 1,
             "youtubeUrl": "https://www.youtube.com/watch?v=zd61fjNCzBs",
             "price": "3jt",
             "finalPrice":"3,1jt",
@@ -73,7 +73,7 @@
         {
             "name": "DQ07",
             "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-7.jpg",
-            "status": 0,
+            "status": 1,
             "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
             "price": "2,9jt",
             "finalPrice":"3jt",

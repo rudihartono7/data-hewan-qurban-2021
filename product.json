@@ -79,6 +79,16 @@
             "finalPrice":"3jt",
             "grade": "KELAS DOMBA B",
             "weight": "Berat 26-29kg"
+        },
+        {
+            "name": "DQ09",
+            "imageUrl": "https://raw.githubusercontent.com/rudihartono7/data-hewan-qurban-2021/main/products/domba-9.jpg",
+            "status": 0,
+            "youtubeUrl": "https://www.youtube.com/watch?v=3W4CmLOmqhY",
+            "price": "2,8jt",
+            "finalPrice":"3jt",
+            "grade": "KELAS DOMBA B",
+            "weight": "Berat 29-32kg"
         }
     ],
     "sapi":[
